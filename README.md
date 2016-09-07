@@ -1,2 +1,3 @@
-# TodoList
-A react dem
+# react-todos demo
+# build 
+npm run build
